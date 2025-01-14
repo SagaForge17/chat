@@ -1,13 +1,12 @@
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID",
-    measurementId: "YOUR_MEASUREMENT_ID"
+  apiKey: "AIzaSyC6B15FGvL8Az_G-KALhh0DCcTNI_x6bno",
+  authDomain: "chat-dd828.firebaseapp.com",
+  projectId: "chat-dd828",
+  storageBucket: "chat-dd828.firebasestorage.app",
+  messagingSenderId: "922235659091",
+  appId: "1:922235659091:web:827cf546f93e630309f7a6",
+  measurementId: "G-WC9V3XY2NQ"
 };
 
 // Initialize Firebase
